@@ -1,0 +1,2 @@
+# Transaction-Forcasting-with-LightGBM
+Iyzico is a financial technology company that facilitates the online shopping experience for both buyers and sellers. It provides payment infrastructure for e-commerce companies, marketplaces and individual users. Using the LightGBM model, the first 3 years of 2021 For the month, the total transaction volume was estimated on the basis of member merchants and days.
